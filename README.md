@@ -1,2 +1,5 @@
-# life-expectance-and-GDP-off-CodeCademy-capstone-project-
-Data analysis about life expectance and GDP. Built off CodeCademy capstone project
+# Life expectance and GDP - project off CodeCademy
+
+Data analysis about life expectance and GDP. Built off CodeCademy capstone project.
+
+This is a small dataset, considering only 6 countries. This is a reduced set for teaching purposes only.
